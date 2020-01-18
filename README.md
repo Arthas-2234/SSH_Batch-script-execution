@@ -12,6 +12,18 @@
 
 另外一个config.txt文件用于存放待刷脚本
 
+![Image text](https://github.com/Arthas-2234/SSH_Batch-script-execution/blob/master/img/config.png)
+
+将test.exe文件和config.txt，list.xlsx放至同一路径 运行test.exe
+运行界面如下
+
+![Image text](https://github.com/Arthas-2234/SSH_Batch-script-execution/blob/master/img/running.png)
+
+如果ssh连接失败将会抛出异常
+
+![Image text](https://github.com/Arthas-2234/SSH_Batch-script-execution/blob/master/img/error.png)
+
+
 
 
 
